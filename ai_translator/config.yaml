@@ -1,0 +1,6 @@
+OpenAIModel:
+  openai_api_key: "sk-x0lqkoDQ5nEnrVRgdh5FYw4wkmPDHgPj0oqdh4yTmIWZvL3C"
+  model: "gpt-3.5-turbo"
+common:
+  book: "../jupyter/test.pdf"
+  file_format: "pdf"
